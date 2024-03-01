@@ -31,5 +31,26 @@ const users = [
     }
 ]
 // console.log(users[1].email);
-console.log(Object.keys(tinderUser));
-console.log(Object.values(tinderUser));
+// console.log(Object.keys(tinderUser));
+// console.log(Object.values(tinderUser));
+
+
+const coures = {
+    couresName: "FrontEnd Developer",
+    Price: '999',
+    CoureTeachers: "jhon"
+}
+
+console.log(coures.CoureTeachers);
+
+
+const {Price: p}= coures
+
+// console.log(Price);
+// console.log(p);
+
+const Navbar = ()=>{
+
+}
+
+
