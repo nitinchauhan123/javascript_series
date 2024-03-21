@@ -9,6 +9,7 @@ Address = "Ateli"
 
 EmailId = "1234@.com";
 AccountNumber = "112345"
+
 Address = "kanti"
 
 let age;  // undefined 
